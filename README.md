@@ -6,3 +6,5 @@ This repo contains the working code for the [models](https://www.aclweb.org/anth
 ## Models
 * BiLSTM with attention layer both word2vec and fasttext word embeddedings were used
 * CNN - A 1D CNN model
+
+* Optuna is used for hyperparameter tuning
